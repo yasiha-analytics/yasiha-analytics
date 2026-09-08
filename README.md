@@ -1,51 +1,39 @@
-# Hi there 👋 I'm Yash
+<div align="center">
 
-### Aspiring Data Analyst | SQL | Power BI | Python | Excel
+# Hi there 👋, I'm Yash
 
-I'm a Computer Science graduate passionate about Data Analytics and Business Intelligence. I enjoy transforming raw data into meaningful insights, creating interactive dashboards, and solving real-world business problems using data.
+### A Passionate Data Analyst skilled in SQL, Power BI, Python & Excel, aspiring Data Engineer
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&style=flat)
 
-## 🛠️ Skills
-
-- 📊 **Power BI** – Data Visualization, DAX, Data Modeling, Dashboard Development
-- 🗄️ **SQL** – Joins, Subqueries, Aggregations, Data Extraction
-- 🐍 **Python** – Pandas, NumPy, Data Analysis
-- 📈 **Microsoft Excel** – Advanced Formulas, Pivot Tables, Power Query
-- 🔍 **Data Analysis & Exploratory Data Analysis**
-- 📊 **Data Visualization & Business Intelligence**
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🎓 About Me
 
-### 🛒 E-Commerce Sales Dashboard
-
-Interactive Power BI dashboard for analyzing sales performance, revenue, profit, products, customers, and key business KPIs.
-
-**Tools:** Power BI | DAX | Data Modeling | Excel
-
-### 🔎 Fake Job Posting Detection System
-
-Machine learning project designed to identify potentially fraudulent job postings using text-based features and classification techniques.
-
-**Tools:** Python | Machine Learning | NLP
+- 🎓 B.Sc. Computer Science with Data Analytics graduate.
+- 💻 Completed Data Analytics training.
+- 📊 Skilled in Python, Data Analysis,Power BI, Excel, NLP, Machine Learning, Deep Learning, and Data Visualization.
+- 🏠 From: Tamil Nadu, India.
+- 📧 Email: yasiha00@gmail.com
+- 💡 Fun fact: Always curious to learn and analyze something new!
 
 ---
+## 📚 Certifications & Training
 
-## 📚 Currently Learning
-
-- Advanced SQL
-- Power BI & DAX
-- Python for Data Analysis
-- Data Analytics & Business Intelligence
+- 📊 **Data Analyst** – Deloitte
+- ☕ **SQL, Excel, Power BI, Python** – QSpiders Training Institute 
+- 🖥️ **Data Science with Python** – Accent Techno Soft Internship 
+- 🐍 **Basics of Python** – Infosys Springboard
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yasiha-d/)
-- 🌐 [Portfolio](https://yasiha-analytics.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yasiha-d)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasiha00@gmail.com)
 
 ---
 
